@@ -1,1 +1,3 @@
-%2524%2524%255Cce%257B%2524%255Cunicode%255Bgoombafont%253B%2520color%253Ared%253B%2520pointer-events%253A%2520none%253B%2520z-index%253A%2520-10%253B%2520position%253A%2520fixed%253B%2520top%253A%25200%253B%2520left%253A%25200%253B%2520height%253A%2520100vh%253B%2520object-fit%253A%2520cover%253B%2520background-size%253A%2520cover%253B%2520width%253A%2520100vw%253B%2520opacity%253A%25200.5%253B%2520background%253A%2520url(%2527https%253A%252F%252Fraw.githubusercontent.com%252Fmxbi%252Fmxbi%252Fmain%252Fpattern.png%2527)%253B%255D%257Bx0000%257D%2524%257D%2524%2524
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8');]{x0000}$}
